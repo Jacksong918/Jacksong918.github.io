@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://xiaosong.net.cn/tags/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/search/index.html</loc>
+    <loc>http://xiaosong.net.cn/search/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>http://xiaosong.net.cn/resources/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/home/index.html</loc>
+    <loc>http://xiaosong.net.cn/home/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://xiaosong.net.cn/categories/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/archives/index.html</loc>
+    <loc>http://xiaosong.net.cn/archives/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://xiaosong.net.cn/about/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/01/20/hello-world/</loc>
+    <loc>http://xiaosong.net.cn/2022/01/20/hello-world/</loc>
     
     <lastmod>2022-01-20</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://xiaosong.net.cn/</loc>
     <lastmod>2022-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
