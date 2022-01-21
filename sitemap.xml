@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiaosong.net.cn/2022/01/21/my-first-post/</loc>
+    
+    <lastmod>2022-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://xiaosong.net.cn/tags/index.html</loc>
     
     <lastmod>2022-01-20</lastmod>
@@ -81,6 +90,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://xiaosong.net.cn/tags/demo/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xiaosong.net.cn/tags/first-post/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
