@@ -632,10 +632,10 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     new Valine({
       el         : '#valine-comments',
       verify     : false,
-      notify     : false,
+      notify     : true,
       appId      : 'OrKaecaSLhz2uy4i4xdxKNlR-9Nh9j0Va',
       appKey     : 'RoBkwRno5M1Al7sttcUXJcki',
-      placeholder: "欢迎大家来留言哦！",
+      placeholder: "输入你的评论\n昵称为必填项目，输入QQ号可以直接获取用户名和头像，并且省去了填写邮箱的麻烦！\n虽然email不是必选，但是填写了email可以收到推送通知哦！",
       avatar     : 'mm',
       meta       : guest,
       pageSize   : '10' || 10,
