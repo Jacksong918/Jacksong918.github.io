@@ -17,6 +17,10 @@
   --btn-default-hover-bg: #222;
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
+  --highlight-background: $highlight-background;
+  --highlight-foreground: $highlight-foreground;
+  --highlight-gutter-background: $highlight-gutter-background;
+  --highlight-gutter-foreground: $highlight-gutter-foreground;
 }
 html {
   line-height: 1.15; /* 1 */
@@ -469,10 +473,10 @@ pre code {
   text-shadow: none;
 }
 pre .deletion {
-  background: #fdd;
+  background: #800000;
 }
 pre .addition {
-  background: #dfd;
+  background: #008000;
 }
 pre .meta {
   color: #eab700;
@@ -1249,7 +1253,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b19057;
+  background: #ff1af2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
