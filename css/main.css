@@ -473,10 +473,10 @@ pre code {
   text-shadow: none;
 }
 pre .deletion {
-  background: #800000;
+  background: #fdd;
 }
 pre .addition {
-  background: #008000;
+  background: #dfd;
 }
 pre .meta {
   color: #eab700;
@@ -1253,7 +1253,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a7ddff;
+  background: #7904d6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
