@@ -1278,7 +1278,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7aff0f;
+  background: #70ffd5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2856,4 +2856,38 @@ pre {
 img,
 .darkmode-ignore {
   display: block !important;
+}
+.darkmode--activated {
+  --body-bg-color: #282828;
+  --content-bg-color: #333;
+  --card-bg-color: #555;
+  --text-color: #ccc;
+  --blockquote-color: #bbb;
+  --link-color: #ccc;
+  --link-hover-color: #eee;
+  --brand-color: #ddd;
+  --brand-hover-color: #ddd;
+  --table-row-odd-bg-color: #282828;
+  --table-row-hover-bg-color: #363636;
+  --menu-item-bg-color: #555;
+  --btn-default-bg: #222;
+  --btn-default-color: #ccc;
+  --btn-default-border-color: #555;
+  --btn-default-hover-bg: #666;
+  --btn-default-hover-color: #ccc;
+  --btn-default-hover-border-color: #666;
+  --highlight-background: $highlight-background-dark;
+  --highlight-foreground: $highlight-foreground-dark;
+  --highlight-gutter-background: $highlight-gutter-background-dark;
+  --highlight-gutter-foreground: $highlight-gutter-foreground-dark;
+}
+.darkmode--activated img {
+  opacity: 0.75;
+}
+.darkmode--activated img:hover {
+  opacity: 0.9;
+}
+.darkmode--activated code {
+  color: #69dbdc;
+  background: transparent;
 }
