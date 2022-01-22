@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xiaosong.net.cn/guestbook/index.html</loc>
+    <loc>http://xiaosong.net.cn/2022/01/21/my-first-post/</loc>
     
     <lastmod>2022-01-22</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://xiaosong.net.cn/2022/01/21/my-first-post/</loc>
+    <loc>http://xiaosong.net.cn/guestbook/index.html</loc>
     
-    <lastmod>2022-01-21</lastmod>
+    <lastmod>2022-01-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
