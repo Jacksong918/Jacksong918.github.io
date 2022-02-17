@@ -85,7 +85,7 @@
 
   <url>
     <loc>http://xiaosong.net.cn/</loc>
-    <lastmod>2022-01-25</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,28 +93,28 @@
   
   <url>
     <loc>http://xiaosong.net.cn/tags/Hexo/</loc>
-    <lastmod>2022-01-25</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiaosong.net.cn/tags/Next/</loc>
-    <lastmod>2022-01-25</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiaosong.net.cn/tags/demo/</loc>
-    <lastmod>2022-01-25</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xiaosong.net.cn/tags/first-post/</loc>
-    <lastmod>2022-01-25</lastmod>
+    <lastmod>2022-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
